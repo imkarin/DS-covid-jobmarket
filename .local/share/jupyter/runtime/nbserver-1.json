@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/imkarin-ds-covid-jobmarket-18d9l6w7/",
+  "base_url": "/binder/jupyter/user/imkarin-ds-covid-jobmarket-2gti8cq5/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
@@ -7,6 +7,6 @@
   "port": 8888,
   "secure": false,
   "sock": "",
-  "token": "BRdZUj19SUCoL1aoXBpwHA",
-  "url": "http://0.0.0.0:8888/user/imkarin-ds-covid-jobmarket-18d9l6w7/"
+  "token": "9vfuyeuVRqePq23Ywsm92w",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/imkarin-ds-covid-jobmarket-2gti8cq5/"
 }
